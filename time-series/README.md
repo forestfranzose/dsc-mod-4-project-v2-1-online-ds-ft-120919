@@ -22,6 +22,6 @@ I focused on:
 
 # For more info,
 
-Check out my [presentation](Mod%4%Presentation.pdf)
+Check out my [presentation](Mod%4%Presentation.pdf).
 
 
